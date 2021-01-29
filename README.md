@@ -7,14 +7,19 @@ Slideshow written with ECMAScript 2015
 
 Technologies: HTML, CSS, ECMAScript 2015 , WEBPACK
 
+
 I have tried to use 
-destructuring, scattering, defaults, arrow functions etc.
+destructuring, scattering, defaults, arrow functions 
+
 
 
 
 CustomEvent 'named' js-slider-start 'and' js-slider-stop '. Their task is to start or stop automatic photo switching.
 
+
 The 'js-slider-start' event is fired in 2 cases.
 
 -after clicking on the photo,
+
+
 -after moving the cursor off the arrow.
