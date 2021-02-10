@@ -45,11 +45,11 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 
 :computer: TECHNOLOGIES :  HTML, CSS, ECMAScript 2015 , WEBPACK
 
-—----
+—-------> 
 
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-form---uploading-a-CSV-file-in-JS)
-▶️ :arrow_forward:   :arrow_backward:
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right:   [CLICK ME ](https://github.com/martynakil/-form---uploading-a-CSV-file-in-JS)
+    :arrow_backward:  :arrow_backward:  :arrow_backward:
 
 
 
