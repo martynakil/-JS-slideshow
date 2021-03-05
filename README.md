@@ -37,7 +37,7 @@ it was a harder task for me because it was important to build the appropriate ap
 -----
 
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/-JS-slideshow/)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/-JS-slideshow/)
 
 
 -----
@@ -48,7 +48,7 @@ do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https
 —-------> 
 
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right:   [CLICK ME ](https://github.com/martynakil/-form---uploading-a-CSV-file-in-JS)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right:   [CLICK ME ](https://github.com/martynakiljan/-form---uploading-a-CSV-file-in-JS)
     :arrow_backward:  :arrow_backward:  :arrow_backward:
 
 
